@@ -44,4 +44,4 @@ At the moment I am actively deepening my knowledge in programming, studying prof
 
 ### ✉️ Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/I_am_Kate4ka)
-[![Yandex Mail](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/I_am_Kate4ka)
+[![Yandex Mail](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](fedorovaea18@yandex.ru)
