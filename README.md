@@ -1,5 +1,8 @@
 <div  align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&size=50&pause=1000&color=000000&center=true&vCenter=true&width=800&height=100&lines=Hi+there!👋+I'm+Kate.;Welcome+to+my+GitHub+Profile!" />
+<p align="center">
+    <hr/>
+  <img src="https://static.tildacdn.com/tild3563-3039-4837-b464-323533303530/java-banner.png">
 </div>
 
 ***
