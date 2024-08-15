@@ -37,8 +37,8 @@ At the moment I am actively deepening my knowledge in programming, studying prof
 
 ***
 
-### 📋 CV
-<!-- [![HexletCV](https://img.shields.io/badge/Хекслет-116EF5?style=for-the-badge&logo=hexlet&logoColor=black)]()
+<!--### 📋 CV
+ [![HexletCV](https://img.shields.io/badge/Хекслет-116EF5?style=for-the-badge&logo=hexlet&logoColor=black)]()
 [![ХабрКарьера](https://img.shields.io/badge/ХабрКарьера-4682B4?style=for-the-badge&logo=habr&logoColor=white)]()-->
 
 ***
