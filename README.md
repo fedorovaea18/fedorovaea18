@@ -32,6 +32,8 @@ At the moment I am actively deepening my knowledge in programming, studying prof
 ![IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
+***
+
 ### ⚔ Codewars
 [![Codewars](https://www.codewars.com/users/abrikosnaya/badges/small)](https://www.codewars.com/users/abrikosnaya/badges/small)
 
