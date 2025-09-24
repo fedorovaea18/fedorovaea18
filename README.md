@@ -1,19 +1,17 @@
 <div  align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there!%F0%9F%91%8B+I'm+Kate.;Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&size=30&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+there!%F0%9F%91%8B+I'm+Kate.;Welcome+to+my+GitHub+Profile!" />
 </div>
 
-***
+---
+I'm beginner **Android developer**.  
+I'm looking for a team where I can apply my skills and learn new things. Let's create cool apps together!
+#### ✉️ You contact me at:
+Telegram: **[@I_am_Kate4ka](https://t.me/I_am_Kate4ka)**  
+E-mail: **fedorovaea18@yandex.ru**
 
-### 🙋🏻‍♀️ About me
-I am a beginner **Java developer**. I like programming because it looks like a solving the puzzle where every line of code brings me closer to a solution. I want to grow up on the direction of programming and apply the knowledge received during the training.
+---
 
-At the moment I am actively deepening my knowledge in programming, studying professional literature, taking additional courses and trainings and solving algorithmic problems. I also try to be aware  of the latest trends in the IT world so that my skills stay relevant.
-
-**I’m looking for an internship or junior Java developer position**, where I can apply and develop their my professional skills in real projects and bring valuable experience to the team. I am motivated, responsible and open to collaborating on interesting projects!
-
-***
-
-### 🛠️ Skills
+### 🛠 Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -32,17 +30,10 @@ At the moment I am actively deepening my knowledge in programming, studying prof
 ![IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-***
-
-### ⚔ Codewars
-[![Codewars](https://www.codewars.com/users/abrikosnaya/badges/small)](https://www.codewars.com/users/abrikosnaya/badges/small)
 
 <!--### 📋 CV
  [![HexletCV](https://img.shields.io/badge/Хекслет-116EF5?style=for-the-badge&logo=hexlet&logoColor=black)]()
 [![ХабрКарьера](https://img.shields.io/badge/ХабрКарьера-4682B4?style=for-the-badge&logo=habr&logoColor=white)]()-->
 
-***
 
-### ✉️ Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/I_am_Kate4ka)
-[![Yandex Mail](https://img.shields.io/badge/EMAIL-FF0000.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:fedorovaea18@yandex.ru)
+
